@@ -8,12 +8,7 @@ echo "No parameters found."
 echo "Usage: ./convert.sh <path_to_html_files_folder>"
 fi
 
-yourfilenames=`ls $1/*.html`
-for eachfile in $yourfilenames
-do
-   #echo $eachfile
-   FILENAME=$(basename ${eachfile%.*})
-   echo $(basename ${eachfile%.*})
-   echo $1\\$FILENAME.md  
-   html2markdown $eachfile utf-8 --default-image-alt ''$eachfile'' --body-width=0 --single-line-break> $FILENAME.md  
+#!/bin/bash
+for filename in $1/*.html; do
+	html2markdown "$filename" utf-8 --body-width=0 --single-line-break > "md/$(basename "$filename" .html).md"
 done

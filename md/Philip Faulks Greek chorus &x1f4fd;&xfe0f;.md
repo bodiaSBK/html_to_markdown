@@ -1,0 +1,21 @@
+﻿
+  * Source:: [[Garland magazine]]
+  * URL:: https://garlandmag.com/loop/philip-faulks
+  * Author:: [[Loop]]
+  * Tags:: [[film]] [[Mark Newbound]] [[Melbourne]] [[papercut]]
+  * Date:: [[3 December 2019]]
+
+
+* * *
+[![](https://garlandmag.com/wp-content/uploads/2019/12/IMG_3800-942x1024.jpg)](https://garlandmag.com/wp-content/uploads/2019/12/IMG_3800.jpg)
+Philip Faulks, Greek Chorus, 2019, 120x120cm, cut paper
+Mark Newbound's film beautifully captures Philip Faulk's meditative papercutting.
+ _Philip Faulks explains:_
+Greek Chorus is part of an ongoing series of work centred around the idea of ancestry and our assumptions about our sense self, and how much of that can be attributed to nature and/or nurture.
+This was instigated by the discovery, in my early fifties, that my father was not my biological father, and that I was in fact half Greek, and not just British as I had been led to believe up until that point. This provoked considerable upheaval in my established sense of self. Not long after, and for a reasons I still do not fully comprehend, I began experimenting with paper cutting as a medium to explore the evolving emotional topography of this experience.
+Greek chorus utilises imagery that extrapolates ideas of inheritance, narrative, storytelling, masks, performance, theatrics, illusion, and allusion and the effect the things we are told, and the things we tell ourselves have on our lives. How much is our sense of self already encoded and how much is implanted by our family and our culture? These inferences can also be extended beyond the individual, positing the role of the Greek Chorus beyond its classical origins into a contemporary context, where the voices in our head can be equated to the voices of the commentariat, and the collective voice of social media.
+The filming of the making process took place over four sessions approximately of two hours each. Because of the repetitious and time consuming nature of the cutting, additional work took place outside of that time.
+Mark came to my studio and set up his equipment, mostly leaving me to my own devices and only occasionally repositioning for extreme close ups and other angles to develop a holistic overview at the point of editing. I very quickly became used to his presence and found that I was able to think and work unselfconsciously. There was some conversation before and after filming, and some technical exchange of information during. We quickly developed an easy and warm working relationship, largely because of Mark’s relaxed, flexible and unobtrusive methodology. Also Mark being a very nice human helped a lot. Most of the process was undertaken in silence because the associated noises of the making that is integral to the way Mark records different artist’s processes. I usually work in a much noisier environment with loud music, talk radio, podcasts or long form narrative tv series as an accompaniment. So I was a little trepidatious as to how I would function without my customary concentration aids. I was pleasantly surprised that I was still able to produce a worthwhile work anyway.
+I am happy with, and grateful for the result. I think Mark has made a sympathetic, sensitive and acutely observed document. I am surprised, and a little moved to see something so familiar revealed back to me as more of mediative and meticulous process than I was aware of and that captures something of the intense and immersive pleasure of the making that all artists know so well.
+ _Mark Newbound 's experience:_
+This was filmed over four days in winter this year, and even then I wasn’t there for most of the work. The trick with doing Philip’s paper cut process justice in film is to get across something of the long period of concentrated effort without boring an audience with the length. Watching the final film, I think I like the drawing part best, and it seems to me something quite remarkable that a person can just pull those perfect shapes straight from their mind. And then there is the final bit when the thing is unfolded and put together on the wall, which was a wow moment even for someone who had been watching the process for so long and was familiar with the forms of the piece as it was made.

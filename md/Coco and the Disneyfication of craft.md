@@ -1,0 +1,26 @@
+﻿
+  * Source:: [[Garland magazine]]
+  * URL:: https://garlandmag.com/loop/coco-and-the-disneyfication-of-craft
+  * Author:: [[Kevin Murray]]
+  * Tags:: [[film]] [[Mexico]]
+  * Date:: [[19 May 2018]]
+
+
+* * *
+[![](https://garlandmag.com/wp-content/uploads/2018/05/Coco-Alebrijes-1024x429.jpg)](https://garlandmag.com/wp-content/uploads/2018/05/Coco-Alebrijes.jpg)
+From http://remezcla.com/features/film/coco-alebrije-workshop-oaxaca/
+Last year’s [Te Moana nui a Kiwa ](https://garlandmag.com/issue-9/)issue was anticipated by the release of the [Moana ](https://en.wikipedia.org/wiki/Moana_\(2016_film\))Disney animation. Normally, this kind of popular culture would seem in a different league to the serious realm of material culture. But the film was hailed for its level of consultation and involvement from the Moana community, though this didn’t prevent it receiving some [criticism ](https://nypost.com/2016/11/30/why-moana-is-drawing-criticism-in-the-south-pacific/)for its simplification of cosmology and demeaning portrayal of the god Maui.
+Wouldn’t you know it? This year’s Mexico issue is also anticipated by a Pixar animation: [Coco](https://en.wikipedia.org/wiki/Coco_\(2017_film\)). Based partly on the town of Oaxaca, where we’ll be hosting our own mini-festival, _Coco_ concerns a boy who strives to become a musician, emulating the memory of his grandfather, Ernesto de la Cruz.
+The scenes moving into and out of the afterlife are mesmerising. I had to watch it again the next night just to experience the wonder again. But I knew that something wasn’t right.
+[![](https://garlandmag.com/wp-content/uploads/2018/05/vlcsnap-2018-05-19-15h37m03s372-1024x427.png)](https://garlandmag.com/wp-content/uploads/2018/05/vlcsnap-2018-05-19-15h37m03s372.png)
+Riviera family turned their back on music after he abandoned his family to seek glory. Instead of music, they reverted to shoe-making, which is portrayed as a menial task for dullards. The craft of shoemaking was too easily set up as a backward restraint on the boy's development. His “dream” of becoming a musician, fitted too comfortably in the Hollywood fantasy of Disney, where entertainment allows you to escape the ordinary world. It all looked too much like an exercise in cultural imperialism: pointing the way forward not in the self-sufficiency of home-grown industry but in the consumption of corporate entertainment fare from the USA.
+I shook my head at the ideological switch perpetrated by Disney. The film purports to be a celebration of family, as the boy reconnects the pieces of his broken past. But this masks the fact that he is diminishing the family as a social unit by refusing to continue its craft tradition. It was a Slavoj Zizek 101 exercise in ideological deceit.
+I took to Google expecting to find critiques that echoed my own, particularly from Mexicans themselves. Nada. There has been some criticism earlier on when [Disney attempted to trademark El Dia de los Muertos](https://www.cnn.com/2013/05/10/us/disney-trademark-day-dead/index.html), but Disney received such an outcry that they quickly backtracked. I couldn’t find anything like the subtle cultural criticism from Moana experts about their Pacific animation.
+To my surprise, I discovered that _Coco_ had quick a positive impact on craft. The fluorescent creatures that fly around the underworld were based not on ancient mythology but on the craft of [alebrijes](https://en.wikipedia.org/wiki/Alebrije), featuring figures carved from wood. It’s a specialisation of [Oaxaca](http://remezcla.com/features/film/coco-alebrije-workshop-oaxaca/), drawing from its _nahuatl_ culture. Also, the opening scene features animated paper cutouts (similar to the way tattoos were used in _Moana_ ). The _papel picado_ is a distinctive feature of Mexican festive craft. And finally, the white decorated guitar that is the coveted instrument of Miguel is now in [hot demand](https://www.npr.org/sections/parallels/2018/02/16/586072786/a-guitar-making-town-in-mexico-makes-a-killing-off-the-movie-coco) from Mexican luthiers.
+[![](https://garlandmag.com/wp-content/uploads/2018/05/db33c8bc-98bf-40b2-8752-176a437397d2._SR970300_.jpg)](https://garlandmag.com/wp-content/uploads/2018/05/db33c8bc-98bf-40b2-8752-176a437397d2._SR970300_.jpg)
+[![](https://garlandmag.com/wp-content/uploads/2018/05/a69ad6136d4e0e94bfcb0e6e47cb6da3-1024x767.jpg)](https://garlandmag.com/wp-content/uploads/2018/05/a69ad6136d4e0e94bfcb0e6e47cb6da3.jpg)
+  
+
+ 
+Ah well. That’s entertainment. Just as we secretly love the monsters, even the demeaning depiction of craft has the effect in the end of bringing it to our attention.
+I watched this film (twice) thinking about the event that’s being organised for Garland by our Mexican partners in [Oaxaca](http://garlandmag.com/oaxaca). It’s a unique opportunity to learn more about the vivacious crafts featured in Mexico. But what about El Dia de los Muertos? I looked at the invisible dead in _Coco_ who visit the cemeteries at this night and wondered if that’s how we will feel when we move among those who are participating in this event. Will we be like ghosts, enjoying the spectacle, but in a different reality? No doubt, we will come away with an amazing memory that will stay with us for the rest of our lives (and perhaps beyond). But what do we contribute to this event?
